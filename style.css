@@ -1,0 +1,12 @@
+body {
+	background-color: yellow;
+}
+
+div {
+	border: 5px solid black;
+	border-radius: 8px;
+	padding: 10px;
+	background-image: url(street.jpg);
+	background-repeat: no-repeat;
+	background-size: 550px 370px;
+}
